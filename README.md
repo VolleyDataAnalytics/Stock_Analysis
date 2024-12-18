@@ -24,7 +24,7 @@ What to Fetch:
 - Low Price: The lowest price of the stock during the session.
 - Trading Volume: Number of shares traded.
 - Market Trend: Derived metric indicating upward, downward, or neutral trend.
-Tasks:
+- Tasks:
 Showcase real-time stock price predictions or portfolio analysis.
 Visualize stock movement trends over time.
 Tools: Python (Pandas, NumPy), Apache Spark for analysis.
