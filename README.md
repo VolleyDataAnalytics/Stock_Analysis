@@ -27,4 +27,4 @@ What to Fetch:
 - Tasks:
 Showcase real-time stock price predictions or portfolio analysis.
 Visualize stock movement trends over time.
-Tools: Python (Pandas, NumPy), Apache Spark for analysis.
+- Tools: Python (Pandas, NumPy), Apache Spark for analysis.
