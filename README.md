@@ -15,14 +15,15 @@ Visualize the insights using tools like Tableau, Power BI, or Python libraries s
 Create dashboards and interactive reports to present findings effectively.
 
 **Data Source: Yahoo Finance API **.
-What to Fetch: Stock Symbol: Unique identifier for the stock (e.g., AAPL for Apple).
-Date & Time: Timestamp of the fetched data.
-Open Price: The stock price at the beginning of the trading session.
-Current Price: The latest live stock price.
-High Price: The highest price of the stock during the session.
-Low Price: The lowest price of the stock during the session.
-Trading Volume: Number of shares traded.
-Market Trend: Derived metric indicating upward, downward, or neutral trend..
+What to Fetch: 
+- Stock Symbol: Unique identifier for the stock (e.g., AAPL for Apple).
+- Date & Time: Timestamp of the fetched data.
+- Open Price: The stock price at the beginning of the trading session.
+- Current Price: The latest live stock price.
+- High Price: The highest price of the stock during the session.
+- Low Price: The lowest price of the stock during the session.
+- Trading Volume: Number of shares traded.
+- Market Trend: Derived metric indicating upward, downward, or neutral trend.
 Tasks:
 Showcase real-time stock price predictions or portfolio analysis.
 Visualize stock movement trends over time.
